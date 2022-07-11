@@ -1,0 +1,34 @@
+.addr{
+	margin: 0px 90px;
+	text-align: center; 
+	margin-bottom: -200px !important;
+	margin-top: 10px;
+}
+
+.shortDesc{
+	text-align: center;
+	margin-bottom: 2px;
+	margin-top: -18px;
+}
+
+.companyName{
+	margin-bottom: 0px;
+	margin-top: -100px;
+}
+
+.right{
+	float: right;
+	text-align: right !important;
+	text-align-last: right !important;
+	text-align: -webkit-right !important;
+}
+
+.fontStyle{
+	font-family: Verdana, Tahoma, "Trebuchet MS", "DejuVu Sans", "Bitstream Vera Sans", sans-serif;
+	font-size: 12px;
+	padding: 3px;
+}
+
+.smallFont{
+	/*font-size: 13	px;*/
+}
